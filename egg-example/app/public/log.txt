@@ -1,0 +1,45 @@
+{ form: 'GF10CJ',
+  form_name: '你的基本信息',
+  entry:
+   { serial_number: 27,
+     field_4: '施心平',//name
+     field_5: '男生',//sex
+     field_6: '东北农业大学',//college
+     field_7: '大二',//grade
+     field_8: '风景园林',//major
+     field_9: '18846084097',//phoneNum
+     field_10: '熟练使用Office，Adobe等软件',//reason
+     field_11://level
+      [ '想提升自己的职业技能',
+        '想从事互联网相关工作',
+        '对互联网、电子产品有浓厚兴趣',
+        '想认识更多兴趣相投的校友',
+        '我还有其他的原因*' ],
+     field_12: 'hacker',//otherReason:
+     field_13: 'cool',//introduce
+     creator_name: 'du28777224',
+     created_at: '2018-05-22 13:22:33 UTC',
+     updated_at: '2018-05-22 13:22:33 UTC',
+     info_remote_ip: '1.190.209.38' 
+    } 
+}
+
+https://qXyfdUpjtcP0pEBFa2BAwQ:dshj86DGdpipjdvrTdIiAg@jinshuju.net/api/v1/forms/GF10CJ
+
+utf8: ✓
+authenticity_token: O3/8AHOpgh5x1sWLN3VF8FyOqtS7cfMwcU+SHQdGMkXr9haszMGwLrgfs+jmpYAQqYbN6l8hEr80Fy9YqqSLmw==
+entry[field_4]: fdgdcfgb
+entry[field_5]: fGO4
+entry[field_6]: vbcvbc
+entry[field_7]: j1zS
+entry[field_8]: c vc
+entry[field_9]: 
+entry[field_10]: 4rND
+entry[field_11][]: OZcp
+entry[field_11][]: 7X0R
+entry[field_12]: rgredg
+entry[field_13]: gredgr
+embedded: 
+banner: 
+header: 
+background: 
