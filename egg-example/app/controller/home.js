@@ -248,7 +248,8 @@ class HomeController extends Controller {
   }
   async postTableData() {
     const ctx = this.ctx;
-    console.log(ctx.request.body);
+    // console.log(ctx.request.body);
+    console.log(JSON.stringify(ctx.request.body));
     ctx.body = "ok";
   }
 }
